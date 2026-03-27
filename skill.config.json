@@ -10,12 +10,6 @@
         "version": ">=1.0.0",
         "required": true,
         "purpose": "Extract text and formulas from images"
-      },
-      {
-        "name": "math-images",
-        "version": ">=1.0.0",
-        "required": true,
-        "purpose": "Render LaTeX formulas to PNG images"
       }
     ],
     "python": {
