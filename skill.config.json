@@ -1,6 +1,6 @@
 {
   "name": "math-solver",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Complete mathematical problem solving with OCR, LaTeX extraction, PNG rendering, and guided solutions",
   
   "dependencies": {
