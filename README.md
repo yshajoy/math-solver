@@ -202,3 +202,4 @@ Built with:
 Start by uploading a math problem image! 
 
 OpenClaw will automatically recognize it, extract the formulas, render them beautifully, and help you understand the solution. 📐✨
+# math-solver
